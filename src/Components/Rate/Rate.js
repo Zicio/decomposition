@@ -1,7 +1,11 @@
+//! Компонент, отвечающий за строку курсов/котировок
+
+import "./Rate.scss";
+
 const Rate = (props) => {
   const { type } = props;
 
-  // ! Получаем курс
+  // Получаем курс
   // const getRate = async () => { TODO };
   // const rate = async () => await getRate();
 

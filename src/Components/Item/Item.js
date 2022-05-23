@@ -1,3 +1,7 @@
+//! Компонент, отвечающий за отдельную новость
+
+import "./Item.scss";
+
 const Item = (props) => {
   const { data } = props;
   return (

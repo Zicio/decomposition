@@ -1,7 +1,11 @@
+//! Компонент, отвечающий за отдельный раздел в горизонтальных
+
+import "./Link.scss";
+
 const Link = (props) => {
   const { link, text } = props;
   return (
-    <li>
+    <li className="section">
       <a href={link}>{text}</a>
     </li>
   );

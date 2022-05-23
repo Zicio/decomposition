@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gskdpsr538wuaehg?svg=true)](https://ci.appveyor.com/project/Zicio/decomposition)
+
 [Ссылка на GP](https://zicio.github.io/decomposition/)
 
 [Ссылка на задание](https://github.com/netology-code/ra16-homeworks/tree/master/composition/decomposition)
