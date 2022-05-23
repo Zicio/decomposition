@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 //! Универсальный компонент для нижних блоков
 
 import "./Block.scss";
